@@ -1,4 +1,4 @@
-import telebot
+import python-telegram-bot
 import yt_dlp
 import os
 import re
