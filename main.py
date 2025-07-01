@@ -1,7 +1,7 @@
-import python-telegram-bot
-import yt_dlp
 import os
 import re
+import telebot
+import yt_dlp
 from flask import Flask, request
 
 # تنظیمات ربات تلگرام
